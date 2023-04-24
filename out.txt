@@ -1,0 +1,2163 @@
+model : تارا
+name :  دنده ای
+year : 1400
+mileage : 50000
+city : شیراز 
+price : 750000000
+-------------
+model : جک
+name :  S5
+year : 1398
+mileage : 59000
+city : شیراز 
+price : 1500000000
+-------------
+model : فولکس
+name :  تیگوان
+year : 1397
+mileage : 91000
+city : تهران 
+price : 6250000000
+-------------
+model : فونیکس
+name :  FX
+year : 1401
+mileage : 0
+city : تهران 
+price : 2510000000
+-------------
+model : نیسان
+name :  پاترول دو در
+year : 1377
+mileage : 300000
+city : تبریز 
+price : 430000000
+-------------
+model : کی ام سی
+name :  T8
+year : 1401
+mileage : 12000
+city : ساوجبلاغ 
+price : 1960000000
+-------------
+model : دی اس
+name :  6
+year : 1395
+mileage : 124000
+city : تهران 
+price : 2520000000
+-------------
+model : فونیکس
+name :  FX
+year : 1401
+mileage : 0
+city : تهران 
+price : 2490000000
+-------------
+model : پژو
+name :  207
+year : 1401
+mileage : 9500
+city : تهران 
+price : 820000000
+-------------
+model : پژو
+name :  207
+year : 1401
+mileage : 11000
+city : کرج 
+price : 830000000
+-------------
+model : نیسان
+name :  ماکسیما
+year : 1391
+mileage : 0
+city : تهران 
+price : 2960000000
+-------------
+model : اپل
+name :  کورسا
+year : 1994
+mileage : 511111
+city : مشهد 
+price : 135000000
+-------------
+model : فولکس
+name :  تیگوان
+year : 1397
+mileage : 75000
+city : تهران 
+price : 6200000000
+-------------
+model : پژو
+name :  206
+year : 1395
+mileage : 150000
+city : سیرجان
+price : 410000000
+-------------
+model : هیوندای
+name :  توسان (ix35)
+year : 1396
+mileage : 24000
+city : تهران 
+price : 4150000000
+-------------
+model : رنو
+name :  کپچر
+year : 1396
+mileage : 30000
+city : مشهد 
+price : 1950000000
+-------------
+model : پژو
+name :  206
+year : 1396
+mileage : 70000
+city : تهران 
+price : 430000000
+-------------
+model : آریسان
+name :  دوگانه سوز
+year : 1398
+mileage : 94000
+city : تهران 
+price : 310000000
+-------------
+model : ام وی ام
+name :  315هاچ بک
+year : 1394
+mileage : 210000
+city : تهران 
+price : 360000000
+-------------
+model : کوییک
+name :  دنده ای R
+year : 1401
+mileage : 1690
+city : تهران 
+price : 407000000
+-------------
+model : جک
+name :  S5
+year : 1401
+mileage : 0
+city : تهران 
+price : 1870000000
+-------------
+model : هیوندای
+name :  سانتافه (ix45)
+year : 1387
+mileage : 250000
+city : تهران 
+price : 1900000000
+-------------
+model : دنا
+name :  پلاس
+year : 1400
+mileage : 35000
+city : کرج
+price : 900000000
+-------------
+model : پژو
+name :  پارس
+year : 1401
+mileage : 0
+city : تهران 
+price : 610000000
+-------------
+model : پژو
+name :  207
+year : 1401
+mileage : 8500
+city : بابل 
+price : 830000000
+-------------
+model : ام جی
+name :  3
+year : 1394
+mileage : 67000
+city : تهران 
+price : 885000000
+-------------
+model : جک
+name :  S5
+year : 1400
+mileage : 0
+city : خرم آباد 
+price : 1800000000
+-------------
+model : پژو
+name :  پارس
+year : 1393
+mileage : 90000
+city : تهران 
+price : 450000000
+-------------
+model : پراید
+name :  131
+year : 1395
+mileage : 80000
+city : تهران 
+price : 268000000
+-------------
+model : برلیانس
+name :  H330
+year : 1397
+mileage : 41000
+city : اصفهان 
+price : 910000000
+-------------
+model : هیوندای
+name :  سوناتا
+year : 1388
+mileage : 260000
+city : اصفهان 
+price : 1590000000
+-------------
+model : پژو
+name :  206 SD
+year : 1389
+mileage : 189000
+city : تهران 
+price : 330000000
+-------------
+model : رنو
+name :  مگان (مونتاژ)
+year : 1391
+mileage : 20000
+city : تهران 
+price : 1550000000
+-------------
+model : سیتروئن
+name :  C3 (مونتاژ)
+year : 1397
+mileage : 17400
+city : تهران 
+price : 2250000000
+-------------
+model : دیگنیتی
+name :  پرستیژ
+year : 1401
+mileage : 960
+city : تبریز 
+price : 2800000000
+-------------
+model : پژو
+name :  206
+year : 1401
+mileage : 0
+city : تهران 
+price : 620000000
+-------------
+model : جک
+name :  S5
+year : 1396
+mileage : 99000
+city : تهران 
+price : 1340000000
+-------------
+model : پژو
+name :  206
+year : 1399
+mileage : 40000
+city : تهران 
+price : 550000000
+-------------
+model : فونیکس
+name :  تیگو 7 پرو
+year : 1402
+mileage : 0
+city : اصفهان 
+price : 2600000000
+-------------
+model : کوییک
+name :  دنده ای R
+year : 1401
+mileage : 4200
+city : ایلام
+price : 385000000
+-------------
+model : هیوندای
+name :  اکسنت
+year : 1393
+mileage : 157000
+city : تهران 
+price : 1670000000
+-------------
+model : پژو
+name :  405
+year : 1397
+mileage : 115000
+city : نجف آباد
+price : 493000000
+-------------
+model : پژو
+name :  207
+year : 1402
+mileage : 0
+city : تهران 
+price : 820000000
+-------------
+model : کوییک
+name :  دنده ای
+year : 1401
+mileage : 5500
+city : کرج 
+price : 380000000
+-------------
+model : جک
+name :  جی 5
+year : 1396
+mileage : 118000
+city : اردبیل
+price : 810000000
+-------------
+model : پژو
+name :  207
+year : 1399
+mileage : 25000
+city : همدان 
+price : 950000000
+-------------
+model : پژو
+name :  پارس
+year : 1401
+mileage : 0
+city : یزد
+price : 725000000
+-------------
+model : پراید
+name :  هاچ بک
+year : 1388
+mileage : 221000
+city : تهران 
+price : 180000000
+-------------
+model : تارا
+name :  دنده ای
+year : 1401
+mileage : 6500
+city : تهران 
+price : 805000000
+-------------
+model : ساینا
+name :  EX دنده ای
+year : 1398
+mileage : 67000
+city : بیرجند
+price : 335000000
+-------------
+model : تویوتا
+name :  کمری
+year : 1385
+mileage : 243000
+city : تهران 
+price : 1080000000
+-------------
+model : کیا
+name :  ریو (مونتاژ)
+year : 1386
+mileage : 300000
+city : تهران 
+price : 260000000
+-------------
+model : زامیاد
+name :  ریچ
+year : 1398
+mileage : 18000
+city : تهران 
+price : 1250000000
+-------------
+model : هیوندای
+name :  آزرا (گرنجور)
+year : 1387
+mileage : 150000
+city : کرج 
+price : 1620000000
+-------------
+model : رنو
+name :  داستر
+year : 1397
+mileage : 98000
+city : تهران 
+price : 2630000000
+-------------
+model : رنو
+name :  داستر
+year : 1397
+mileage : 110000
+city : تهران 
+price : 2580000000
+-------------
+model : کیا
+name :  سورنتو
+year : 1396
+mileage : 75000
+city : مشکین شهر 
+price : 4600000000
+-------------
+model : پژو
+name :  207
+year : 1396
+mileage : 98000
+city : تهران
+price : 715000000
+-------------
+model : لیفان
+name :  620
+year : 1390
+mileage : 250000
+city : تهران 
+price : 310000000
+-------------
+model : کوییک
+name :  دنده ای S
+year : 1401
+mileage : 0
+city : قزوین
+price : 419000000
+-------------
+model : ساینا
+name :  S دنده ای
+year : 1401
+mileage : 550
+city : کرج 
+price : 395000000
+-------------
+model : کیا
+name :  سورنتو
+year : 1396
+mileage : 62000
+city : قزوین 
+price : 5200000000
+-------------
+model : رنو
+name :  داستر
+year : 1397
+mileage : 71000
+city : شمیرانات 
+price : 2500000000
+-------------
+model : کوییک
+name :  دنده ای R
+year : 1400
+mileage : 27000
+city : تهران 
+price : 388000000
+-------------
+model : پژو
+name :  207
+year : 1400
+mileage : 1500
+city : مینودشت 
+price : 800000000
+-------------
+model : نیسان
+name :  پاترول دو در
+year : 1376
+mileage : 250000
+city : تهران 
+price : 350000000
+-------------
+model : پژو
+name :  206
+year : 1397
+mileage : 190000
+city : اصفهان 
+price : 480000000
+-------------
+model : چری
+name :  آریزو 5T
+year : 1401
+mileage : 15000
+city : اصفهان 
+price : 1300000000
+-------------
+model : چری
+name :  آریزو 5T
+year : 1401
+mileage : 2000
+city : تهران 
+price : 1415000000
+-------------
+model : ام وی ام
+name :  110
+year : 1394
+mileage : 136000
+city : سیرجان 
+price : 243000000
+-------------
+model : رنو
+name :  تندر 90
+year : 1394
+mileage : 107000
+city : تهران 
+price : 570000000
+-------------
+model : دنا
+name :  پلاس
+year : 1401
+mileage : 9000
+city : تهران 
+price : 960000000
+-------------
+model : هیوندای
+name :  سانتافه (ix45)
+year : 1395
+mileage : 0
+city : تهران 
+price : 4400000000
+-------------
+model : جیلی
+name :  امگرند RV-7
+year : 1392
+mileage : 100000
+city : تهران
+price : 640000000
+-------------
+model : پژو
+name :  206
+year : 1390
+mileage : 135000
+city : اهواز
+price : 335000000
+-------------
+model : پژو
+name :  پارس
+year : 1401
+mileage : 7201
+city : اهر 
+price : 603000000
+-------------
+model : پژو
+name :  207
+year : 1401
+mileage : 0
+city : تهران 
+price : 790000000
+-------------
+model : پژو
+name :  206
+year : 1399
+mileage : 20900
+city : مشهد 
+price : 600000000
+-------------
+model : رانا
+name :  پلاس پانوراما
+year : 1401
+mileage : 0
+city : تهران 
+price : 658000000
+-------------
+model : سمند
+name :  LX
+year : 1397
+mileage : 140000
+city : ارومیه
+price : 490000000
+-------------
+model : کوییک
+name :  دنده ای S
+year : 1401
+mileage : 6700
+city : تهران 
+price : 410000000
+-------------
+model : فونیکس
+name :  تیگو 8 پرو
+year : 1401
+mileage : 2000
+city : تهران 
+price : 3050000000
+-------------
+model : مزدا
+name :  323
+year : 1383
+mileage : 330000
+city : تهران 
+price : 380000000
+-------------
+model : ام وی ام
+name :  X33
+year : 1395
+mileage : 88000
+city : اسلام شهر 
+price : 770000000
+-------------
+model : پژو
+name :  207
+year : 1401
+mileage : 4000
+city : چالوس 
+price : 760000000
+-------------
+model : کوییک
+name :  دنده ای
+year : 1401
+mileage : 0
+city : ری
+price : 415000000
+-------------
+model : لکسوس
+name :  RX
+year : 1386
+mileage : 137000
+city : اصفهان 
+price : 3100000000
+-------------
+model : کوییک
+name :  دنده ای
+year : 1400
+mileage : 12500
+city : تهران 
+price : 370000000
+-------------
+model : ب ام و
+name :  X6
+year : 1391
+mileage : 170000
+city : تهران 
+price : 8000000000
+-------------
+model : فوتون
+name :  تونلند G7
+year : 1402
+mileage : 0
+city : تهران 
+price : 3100000000
+-------------
+model : سمند
+name :  LX
+year : 1390
+mileage : 240000
+city : سنندج
+price : 320000000
+-------------
+model : نیسان
+name :  ماکسیما
+year : 1388
+mileage : 148000
+city : تهران 
+price : 1750000000
+-------------
+model : چری
+name :  تیگو 5
+year : 1399
+mileage : 38000
+city : تهران 
+price : 1450000000
+-------------
+model : کی ام سی
+name :  T8
+year : 1400
+mileage : 5200
+city : تهران 
+price : 1950000000
+-------------
+model : کوییک
+name :  دنده ای
+year : 1401
+mileage : 3000
+city : تهران 
+price : 385000000
+-------------
+model : لکسوس
+name :  GS
+year : 1393
+mileage : 120000
+city : تهران 
+price : 5500000000
+-------------
+model : ب ام و
+name :  X4
+year : 1395
+mileage : 86000
+city : تهران 
+price : 8700000000
+-------------
+model : دنا
+name :  پلاس
+year : 1402
+mileage : 0
+city : ارومیه 
+price : 800000000
+-------------
+model : دنا
+name :  پلاس
+year : 1397
+mileage : 59000
+city : زنجان 
+price : 730000000
+-------------
+model : برلیانس
+name :  کراس
+year : 1399
+mileage : 0
+city : تهران 
+price : 1450000000
+-------------
+model : ب ام و
+name :  سری 5 سدان
+year : 1390
+mileage : 210000
+city : تهران 
+price : 4500000000
+-------------
+model : سوزوکی
+name :  گراند ویتارا (وارداتی)
+year : 1385
+mileage : 0
+city : تهران
+price : 500000000
+-------------
+model : پژو
+name :  پارس
+year : 1397
+mileage : 120000
+city : گرگان
+price : 470000000
+-------------
+model : پژو
+name :  207
+year : 1401
+mileage : 10000
+city : بندرعباس
+price : 745000000
+-------------
+model : تارا
+name :  دنده ای
+year : 1401
+mileage : 0
+city : مبارکه
+price : 870000000
+-------------
+model : دنا
+name :  معمولی
+year : 1398
+mileage : 34000
+city : تهران 
+price : 640000000
+-------------
+model : پراید
+name :  131
+year : 1397
+mileage : 37000
+city : تهران 
+price : 297000000
+-------------
+model : پژو
+name :  207
+year : 1400
+mileage : 13000
+city : کرج
+price : 715000000
+-------------
+model : ب ام و
+name :  سری 1 کوپه
+year : 1388
+mileage : 145000
+city : تهران 
+price : 1850000000
+-------------
+model : پژو
+name :  206 SD
+year : 1389
+mileage : 270000
+city : اصفهان 
+price : 325000000
+-------------
+model : هیوندای
+name :  سوناتا
+year : 1391
+mileage : 161000
+city : کرج 
+price : 2170000000
+-------------
+model : رانا
+name :  پلاس پانوراما
+year : 1401
+mileage : 9500
+city : تهران 
+price : 645000000
+-------------
+model : سمند
+name :  LX
+year : 1394
+mileage : 233000
+city : ارومیه
+price : 340000000
+-------------
+model : بنز
+name :  کلاس CLK کروک
+year : 1386
+mileage : 240000
+city : شاهرود
+price : 3200000000
+-------------
+model : ام وی ام
+name :  X22 PRO
+year : 1401
+mileage : 0
+city : تهران 
+price : 1250000000
+-------------
+model : پژو
+name :  207
+year : 1400
+mileage : 37000
+city : تهران
+price : 758000000
+-------------
+model : هایما
+name :  S5
+year : 1401
+mileage : 32000
+city : کنگان
+price : 1520000000
+-------------
+model : سمند
+name :  LX
+year : 1398
+mileage : 68000
+city : اسلام شهر 
+price : 450000000
+-------------
+model : پژو
+name :  207 صندوقدار
+year : 1397
+mileage : 34000
+city : تهران 
+price : 795000000
+-------------
+model : هیوندای
+name :  سوناتا
+year : 1386
+mileage : 150000
+city : تهران 
+price : 1600000000
+-------------
+model : ب ام و
+name :  سری 3 سدان
+year : 1384
+mileage : 129700
+city : مشهد 
+price : 1695000000
+-------------
+model : کوییک
+name :  اتوماتیک پلاس
+year : 1401
+mileage : 5700
+city : تهران 
+price : 485000000
+-------------
+model : شاهین
+name :  G
+year : 1400
+mileage : 40000
+city : آباده 
+price : 599000000
+-------------
+model : پژو
+name :  پارس
+year : 1397
+mileage : 89000
+city : قائم شهر 
+price : 440000000
+-------------
+model : کیا
+name :  اسپورتیج
+year : 1393
+mileage : 160000
+city : اردبیل 
+price : 2650000000
+-------------
+model : برلیانس
+name :  H330
+year : 1395
+mileage : 200000
+city : سقز 
+price : 700000000
+-------------
+model : لکسوس
+name :  IS
+year : 1391
+mileage : 131000
+city : تبریز 
+price : 3700000000
+-------------
+model : دنا
+name :  پلاس
+year : 1402
+mileage : 0
+city : تهران 
+price : 820000000
+-------------
+model : ام وی ام
+name :  X22
+year : 1401
+mileage : 0
+city : تهران 
+price : 930000000
+-------------
+model : پژو
+name :  206
+year : 1398
+mileage : 64000
+city : کرج 
+price : 479000000
+-------------
+model : ام وی ام
+name :  X22
+year : 1397
+mileage : 49500
+city : تهران 
+price : 840000000
+-------------
+model : رنو
+name :  تندر 90
+year : 1396
+mileage : 150000
+city : بابل
+price : 645000000
+-------------
+model : رنو
+name :  تندر 90
+year : 1396
+mileage : 90000
+city : تهران 
+price : 650000000
+-------------
+model : سمند
+name :  LX
+year : 1391
+mileage : 160000
+city : تبریز
+price : 328000000
+-------------
+model : ام وی ام
+name :  X55 PRO
+year : 1401
+mileage : 0
+city : تهران 
+price : 1805000000
+-------------
+model : دنا
+name :  پلاس
+year : 1402
+mileage : 0
+city : قدس
+price : 1100000000
+-------------
+model : پژو
+name :  207
+year : 1400
+mileage : 37000
+city : کرج 
+price : 725000000
+-------------
+model : پژو
+name :  206
+year : 1397
+mileage : 75000
+city : خوی 
+price : 502000000
+-------------
+model : پژو
+name :  207
+year : 1399
+mileage : 35000
+city : قم 
+price : 700000000
+-------------
+model : کوییک
+name :  دنده ای
+year : 1401
+mileage : 0
+city : اصفهان 
+price : 400000000
+-------------
+model : تویوتا
+name :  راوفور
+year : 1396
+mileage : 50000
+city : تهران 
+price : 5700000000
+-------------
+model : ام وی ام
+name :  X55 PRO
+year : 1401
+mileage : 0
+city : تهران 
+price : 1800000000
+-------------
+model : تویوتا
+name :  پرادو دو در
+year : 1388
+mileage : 170
+city : کرج 
+price : 4800000000
+-------------
+model : رنو
+name :  ساندرو
+year : 1395
+mileage : 37000
+city : رشت 
+price : 915000000
+-------------
+model : پژو
+name :  پارس
+year : 1400
+mileage : 24400
+city : تهران 
+price : 675000000
+-------------
+model : سمند
+name :  LX
+year : 1398
+mileage : 73000
+city : اصفهان 
+price : 469000000
+-------------
+model : ام جی
+name :  6
+year : 1394
+mileage : 82000
+city : تهران 
+price : 1520000000
+-------------
+model : هیوندای
+name :  اکسنت
+year : 1393
+mileage : 211000
+city : اصفهان 
+price : 1420000000
+-------------
+model : پژو
+name :  پارس
+year : 1401
+mileage : 0
+city : ایلام
+price : 705000000
+-------------
+model : کیا
+name :  اسپورتیج
+year : 1392
+mileage : 121000
+city : کرمانشاه 
+price : 2450000000
+-------------
+model : پژو
+name :  206 SD
+year : 1387
+mileage : 148000
+city : تهران 
+price : 350000000
+-------------
+model : تارا
+name :  دنده ای
+year : 1401
+mileage : 0
+city : تهران 
+price : 850000000
+-------------
+model : تویوتا
+name :  کرولا
+year : 1394
+mileage : 135000
+city : تهران 
+price : 2390000000
+-------------
+model : پژو
+name :  پارس
+year : 1395
+mileage : 180000
+city : فلاورجان 
+price : 470000000
+-------------
+model : پژو
+name :  206
+year : 1398
+mileage : 0
+city : کرمان
+price : 555000000
+-------------
+model : هیوندای
+name :  آزرا (گرنجور)
+year : 1398
+mileage : 50000
+city : ساری
+price : 6800000000
+-------------
+model : پورشه
+name :  باکستر
+year : 1396
+mileage : 34000
+city : تهران 
+price : 15900000000
+-------------
+model : هایما
+name :  S5
+year : 1401
+mileage : 0
+city : تهران 
+price : 1610000000
+-------------
+model : جک
+name :  S5
+year : 1397
+mileage : 6900
+city : اصفهان 
+price : 1650000000
+-------------
+model : جک
+name :  جی 5
+year : 1394
+mileage : 200000
+city : مشهد 
+price : 575000000
+-------------
+model : نیسان
+name :  جوک
+year : 1395
+mileage : 80000
+city : شمیرانات 
+price : 2400000000
+-------------
+model : کی ام سی
+name :  J7
+year : 1401
+mileage : 0
+city : تهران
+price : 2300000000
+-------------
+model : هایما
+name :  S7
+year : 1397
+mileage : 30000
+city : کرمانشاه 
+price : 1450000000
+-------------
+model : مزدا
+name :  3 جدید صندوق دار (مونتاژ)
+year : 1397
+mileage : 40000
+city : همدان 
+price : 2350000000
+-------------
+model : دانگ فنگ
+name :  H30 کراس
+year : 1398
+mileage : 79000
+city : تهران 
+price : 780000000
+-------------
+model : تارا
+name :  دنده ای
+year : 1400
+mileage : 28000
+city : آباده 
+price : 770000000
+-------------
+model : پژو
+name :  206
+year : 1382
+mileage : 270000
+city : تهران 
+price : 235000000
+-------------
+model : ولوو
+name :  XC90
+year : 1395
+mileage : 100000
+city : تهران 
+price : 8800000000
+-------------
+model : جیلی
+name :  امگرند X7
+year : 1393
+mileage : 165000
+city : نوشهر 
+price : 1300000000
+-------------
+model : تیبا
+name :  هاچ بک
+year : 1396
+mileage : 70000
+city : تهران 
+price : 323000000
+-------------
+model : پژو
+name :  206
+year : 1394
+mileage : 117000
+city : بروجرد
+price : 416000000
+-------------
+model : میتسوبیشی
+name :  اوتلندر
+year : 1396
+mileage : 70000
+city : شمیرانات 
+price : 4000000000
+-------------
+model : پژو
+name :  206
+year : 1395
+mileage : 130000
+city : تهران 
+price : 414000000
+-------------
+model : پژو
+name :  206
+year : 1389
+mileage : 270000
+city : رباط کریم 
+price : 300000000
+-------------
+model : پژو
+name :  207
+year : 1400
+mileage : 35000
+city : تهران 
+price : 735000000
+-------------
+model : دنا
+name :  پلاس
+year : 1401
+mileage : 6500
+city : سمنان 
+price : 985000000
+-------------
+model : هیوندای
+name :  توسان (ix35)
+year : 1387
+mileage : 123000
+city : قزوین
+price : 1230000000
+-------------
+model : پژو
+name :  206
+year : 1386
+mileage : 310000
+city : تهران 
+price : 265000000
+-------------
+model : پراید
+name :  132
+year : 1391
+mileage : 280000
+city : کرج 
+price : 205000000
+-------------
+model : پراید
+name :  131
+year : 1394
+mileage : 108000
+city : تهران 
+price : 259000000
+-------------
+model : پروتون
+name :  ایمپین
+year : 1387
+mileage : 100000
+city : اصفهان
+price : 320000000
+-------------
+model : کوییک
+name :  دنده ای
+year : 1401
+mileage : 0
+city : ایلام 
+price : 410000000
+-------------
+model : ام وی ام
+name :  X55 PRO
+year : 1401
+mileage : 0
+city : قم
+price : 1610000000
+-------------
+model : ام جی
+name :  3
+year : 1394
+mileage : 58000
+city : شهرکرد 
+price : 850000000
+-------------
+model : جک
+name :  S5
+year : 1397
+mileage : 167000
+city : کرج 
+price : 1350000000
+-------------
+model : کیا
+name :  سراتو
+year : 1394
+mileage : 138000
+city : تهران 
+price : 1800000000
+-------------
+model : هیوندای
+name :  سانتافه (ix45)
+year : 1396
+mileage : 20000
+city : تهران 
+price : 5000000000
+-------------
+model : لکسوس
+name :  RX
+year : 1397
+mileage : 20000
+city : تهران 
+price : 17500000000
+-------------
+model : فونیکس
+name :  تیگو 8 پرو
+year : 1401
+mileage : 0
+city : تهران 
+price : 3500000000
+-------------
+model : ام وی ام
+name :  X55 PRO
+year : 1401
+mileage : 0
+city : تهران 
+price : 1800000000
+-------------
+model : فونیکس
+name :  تیگو 7 پرو
+year : 1401
+mileage : 0
+city : تهران 
+price : 2600000000
+-------------
+model : فونیکس
+name :  تیگو 8 پرو مکس
+year : 1402
+mileage : 0
+city : تهران 
+price : 4400000000
+-------------
+model : کیا
+name :  سراتو (مونتاژ)
+year : 1396
+mileage : 41000
+city : تهران 
+price : 1690000000
+-------------
+model : پژو
+name :  207
+year : 1402
+mileage : 0
+city : سیرجان
+price : 795000000
+-------------
+model : برلیانس
+name :  H320
+year : 1396
+mileage : 125000
+city : کرج 
+price : 715000000
+-------------
+model : ساینا
+name :  S دنده ای
+year : 1401
+mileage : 19500
+city : تهران 
+price : 400000000
+-------------
+model : پژو
+name :  206 SD
+year : 1395
+mileage : 100000
+city : تهران 
+price : 480000000
+-------------
+model : کوییک
+name :  دنده ای R
+year : 1401
+mileage : 0
+city : تهران 
+price : 410000000
+-------------
+model : نیسان
+name :  جوک
+year : 1395
+mileage : 13000
+city : تهران 
+price : 2390000000
+-------------
+model : تویوتا
+name :  کمری
+year : 1392
+mileage : 250000
+city : تهران 
+price : 2800000000
+-------------
+model : ولوو
+name :  XC60
+year : 1393
+mileage : 109000
+city : تهران 
+price : 3500000000
+-------------
+model : پراید
+name :  131
+year : 1396
+mileage : 80000
+city : پاکدشت 
+price : 265000000
+-------------
+model : پژو
+name :  206
+year : 1384
+mileage : 360000
+city : تهران 
+price : 215000000
+-------------
+model : پژو
+name :  207
+year : 1401
+mileage : 6500
+city : تهران 
+price : 755000000
+-------------
+model : پژو
+name :  206
+year : 1400
+mileage : 29000
+city : رشت
+price : 545000000
+-------------
+model : هایما
+name :  S7
+year : 1402
+mileage : 0
+city : اصفهان 
+price : 1800000000
+-------------
+model : سیتروئن
+name :  زانتیا
+year : 1384
+mileage : 193000
+city : تهران 
+price : 370000000
+-------------
+model : رنو
+name :  مگان (مونتاژ)
+year : 1392
+mileage : 200000
+city : اصفهان 
+price : 1090000000
+-------------
+model : ب ام و
+name :  سری 5 سدان
+year : 1393
+mileage : 134000
+city : لواسان 
+price : 5850000000
+-------------
+model : مزدا
+name :  3 (مونتاژ)
+year : 1388
+mileage : 170000
+city : کرج 
+price : 1200000000
+-------------
+model : پراید
+name :  131
+year : 1390
+mileage : 350000
+city : تهران 
+price : 180000000
+-------------
+model : تیبا
+name :  هاچ بک
+year : 1397
+mileage : 127000
+city : شهریار 
+price : 323000000
+-------------
+model : تیبا
+name :  هاچ بک
+year : 1398
+mileage : 31000
+city : تهران 
+price : 360000000
+-------------
+model : کی ام سی
+name :  T8
+year : 1401
+mileage : 23000
+city : مشهد 
+price : 2050000000
+-------------
+model : هیوندای
+name :  توسان (ix35)
+year : 1396
+mileage : 80000
+city : شمیرانات 
+price : 3780000000
+-------------
+model : چری
+name :  آریزو 5T
+year : 1399
+mileage : 70000
+city : کرمان 
+price : 1050000000
+-------------
+model : فونیکس
+name :  FX
+year : 1401
+mileage : 0
+city : تهران 
+price : 2510000000
+-------------
+model : فونیکس
+name :  FX
+year : 1402
+mileage : 0
+city : تهران 
+price : 2890000000
+-------------
+model : سمند
+name :  LX
+year : 1393
+mileage : 127000
+city : تهران 
+price : 348000000
+-------------
+model : جک
+name :  S5
+year : 1397
+mileage : 87000
+city : قم 
+price : 1310000000
+-------------
+model : ام جی
+name :  GS
+year : 1394
+mileage : 67000
+city : تهران 
+price : 2350000000
+-------------
+model : رانا
+name :  پلاس
+year : 1400
+mileage : 53000
+city : قم 
+price : 512000000
+-------------
+model : هیوندای
+name :  توسان (ix35)
+year : 1396
+mileage : 15000
+city : مشهد 
+price : 4300000000
+-------------
+model : ولوو
+name :  C70 کروک
+year : 1392
+mileage : 159000
+city : تهران 
+price : 5700000000
+-------------
+model : بنز
+name :  کلاس ML
+year : 1388
+mileage : 105000
+city : تهران 
+price : 6500000000
+-------------
+model : جیلی
+name :  امگرند RV-7
+year : 1393
+mileage : 92800
+city : تهران 
+price : 810000000
+-------------
+model : میتسوبیشی
+name :  اوتلندر
+year : 1396
+mileage : 107000
+city : مشهد 
+price : 3800000000
+-------------
+model : برلیانس
+name :  H330
+year : 1396
+mileage : 90000
+city : قم 
+price : 730000000
+-------------
+model : پژو
+name :  207
+year : 1400
+mileage : 37000
+city : تهران 
+price : 740000000
+-------------
+model : پژو
+name :  206
+year : 1397
+mileage : 142000
+city : کرج 
+price : 263000000
+-------------
+model : ب ام و
+name :  Z4
+year : 1393
+mileage : 130000
+city : تهران 
+price : 5300000000
+-------------
+model : ب ام و
+name :  سری 4 گرن کوپه
+year : 1394
+mileage : 100000
+city : تهران 
+price : 6500000000
+-------------
+model : تویوتا
+name :  اف جی کروز
+year : 1392
+mileage : 140000
+city : تهران 
+price : 9500000000
+-------------
+model : بنز
+name :  کلاس S
+year : 1385
+mileage : 200000
+city : تهران 
+price : 5500000000
+-------------
+model : لکسوس
+name :  RX
+year : 1389
+mileage : 250000
+city : تهران 
+price : 5300000000
+-------------
+model : کیا
+name :  سراتو
+year : 1394
+mileage : 170000
+city : تهران 
+price : 2200000000
+-------------
+model : سمند
+name :  LX
+year : 1393
+mileage : 120000
+city : همدان 
+price : 370000000
+-------------
+model : پراید
+name :  صندوق دار
+year : 1389
+mileage : 295000
+city : تهران 
+price : 185000000
+-------------
+model : پژو
+name :  207
+year : 1401
+mileage : 0
+city : کرج 
+price : 840000000
+-------------
+model : پژو
+name :  206
+year : 1401
+mileage : 6000
+city : سیرجان 
+price : 605000000
+-------------
+model : نیسان
+name :  جوک
+year : 1396
+mileage : 87000
+city : تهران 
+price : 2380000000
+-------------
+model : بنز
+name :  کلاس E
+year : 1391
+mileage : 69500
+city : تهران 
+price : 7650000000
+-------------
+model : دنا
+name :  پلاس
+year : 1401
+mileage : 13000
+city : تهران 
+price : 955000000
+-------------
+model : تارا
+name :  دنده ای
+year : 1400
+mileage : 9800
+city : قزوین 
+price : 760000000
+-------------
+model : ب ام و
+name :  سری 3 سدان
+year : 1385
+mileage : 190000
+city : تهران 
+price : 1450000000
+-------------
+model : ام وی ام
+name :  X22
+year : 1397
+mileage : 31000
+city : دیوان دره
+price : 820000000
+-------------
+model : فونیکس
+name :  تیگو 7 پرو
+year : 1401
+mileage : 0
+city : تهران 
+price : 2500000000
+-------------
+model : دنا
+name :  پلاس
+year : 1402
+mileage : 0
+city : شهررضا
+price : 880000000
+-------------
+model : کی ام سی
+name :  J7
+year : 1401
+mileage : 0
+city : کرج 
+price : 2170000000
+-------------
+model : پژو
+name :  207
+year : 1400
+mileage : 45000
+city : گنبد کاووس
+price : 705000000
+-------------
+model : کی ام سی
+name :  J7
+year : 1401
+mileage : 0
+city : تهران 
+price : 2170000000
+-------------
+model : چری
+name :  آریزو 5T
+year : 1401
+mileage : 19500
+city : بندرعباس 
+price : 1350000000
+-------------
+model : پژو
+name :  پارس
+year : 1402
+mileage : 0
+city : کرمان 
+price : 760000000
+-------------
+model : هیوندای
+name :  سانتافه (ix45)
+year : 1394
+mileage : 135000
+city : آمل 
+price : 3325000000
+-------------
+model : پراید
+name :  131
+year : 1390
+mileage : 300000
+city : سرپل ذهاب
+price : 205000000
+-------------
+model : پراید
+name :  141
+year : 1388
+mileage : 305000
+city : هشتگرد
+price : 190000000
+-------------
+model : کیا
+name :  سراتو (مونتاژ)
+year : 1396
+mileage : 87000
+city : تهران 
+price : 1550000000
+-------------
+model : ولوو
+name :  XC90
+year : 1396
+mileage : 65000
+city : تهران 
+price : 12900000000
+-------------
+model : تویوتا
+name :  راوفور
+year : 1393
+mileage : 70000
+city : تهران 
+price : 4350000000
+-------------
+model : لاماری
+name :  ایما
+year : 1402
+mileage : 0
+city : زنجان
+price : 2530000000
+-------------
+model : کیا
+name :  سراتو (مونتاژ)
+year : 1397
+mileage : 77000
+city : کرمان 
+price : 1710000000
+-------------
+model : کی ام سی
+name :  J7
+year : 1401
+mileage : 0
+city : سیرجان
+price : 2140000000
+-------------
+model : پژو
+name :  405
+year : 1395
+mileage : 154000
+city : تهران 
+price : 300000000
+-------------
+model : تویوتا
+name :  پرادو دو در
+year : 1385
+mileage : 200000
+city : تهران 
+price : 4400000000
+-------------
+model : فونیکس
+name :  تیگو 8 پرو
+year : 1401
+mileage : 29000
+city : تنکابن 
+price : 2900000000
+-------------
+model : پراید
+name :  صندوق دار
+year : 1385
+mileage : 325000
+city : کرمانشاه 
+price : 155000000
+-------------
+model : کیا
+name :  اپتیما
+year : 1393
+mileage : 102000
+city : ری 
+price : 2830000000
+-------------
+model : هایما
+name :  S7
+year : 1402
+mileage : 0
+city : رودهن 
+price : 1900000000
+-------------
+model : پژو
+name :  207
+year : 1401
+mileage : 18000
+city : تهران 
+price : 800000000
+-------------
+model : کیا
+name :  اسپورتیج
+year : 1393
+mileage : 107000
+city : نور 
+price : 2920000000
+-------------
+model : پژو
+name :  206
+year : 1397
+mileage : 89000
+city : تهران 
+price : 509000000
+-------------
+model : پژو
+name :  206
+year : 1399
+mileage : 175000
+city : تهران 
+price : 420000000
+-------------
+model : تارا
+name :  دنده ای
+year : 1401
+mileage : 0
+city : رشت 
+price : 830000000
+-------------
+model : فونیکس
+name :  تیگو 8 پرو
+year : 1401
+mileage : 3500
+city : مشهد 
+price : 3100000000
+-------------
+model : برلیانس
+name :  H320
+year : 1394
+mileage : 70000
+city : تهران 
+price : 690000000
+-------------
+model : بسترن
+name :  B30
+year : 1398
+mileage : 8900
+city : آمل
+price : 1050000000
+-------------
+model : ب ام و
+name :  سری 6 کوپه
+year : 1388
+mileage : 149000
+city : تهران 
+price : 3700000000
+-------------
+model : فونیکس
+name :  تیگو 8 پرو
+year : 1401
+mileage : 0
+city : تهران 
+price : 3400000000
+-------------
+model : رنو
+name :  داستر
+year : 1396
+mileage : 120000
+city : رشت
+price : 1750000000
+-------------
+model : فونیکس
+name :  تیگو 8 پرو مکس
+year : 1402
+mileage : 0
+city : تهران 
+price : 4150000000
+-------------
+model : هیوندای
+name :  سانتافه (ix45)
+year : 1396
+mileage : 30000
+city : تهران 
+price : 5000000000
+-------------
+model : بنز
+name :  کلاس E
+year : 1395
+mileage : 17000
+city : تهران 
+price : 8800000000
+-------------
+model : ام وی ام
+name :  X22 PRO
+year : 1401
+mileage : 300
+city : همدان
+price : 1200000000
+-------------
+model : جک
+name :  جی 4
+year : 1401
+mileage : 1800
+city : شاهرود
+price : 920000000
+-------------
+model : پژو
+name :  206
+year : 1384
+mileage : 110000
+city : کرمانشاه 
+price : 250000000
+-------------
+model : لکسوس
+name :  RX
+year : 1389
+mileage : 125000
+city : شمیرانات 
+price : 5400000000
+-------------
+model : تویوتا
+name :  راوفور
+year : 1396
+mileage : 80000
+city : تهران 
+price : 5800000000
+-------------
+model : هیوندای
+name :  سوناتا
+year : 1393
+mileage : 140000
+city : اصفهان
+price : 2500000000
+-------------
+model : آلفارومئو
+name :  جولیتا
+year : 1396
+mileage : 50000
+city : تهران 
+price : 2700000000
+-------------
+model : بنز
+name :  کلاس C
+year : 1388
+mileage : 150000
+city : شمیرانات 
+price : 4500000000
+-------------
+model : فونیکس
+name :  FX
+year : 1401
+mileage : 0
+city : کرمان 
+price : 2550000000
+-------------
+model : فونیکس
+name :  تیگو 7 پرو
+year : 1401
+mileage : 0
+city : کرمان 
+price : 2480000000
+-------------
+model : پژو
+name :  207
+year : 1401
+mileage : 9000
+city : تهران 
+price : 820000000
+-------------
+model : نیسان
+name :  جوک
+year : 1395
+mileage : 85000
+city : تهران 
+price : 2450000000
+-------------
+model : تویوتا
+name :  راوفور
+year : 1394
+mileage : 120000
+city : مشهد 
+price : 3950000000
+-------------
+model : بنز
+name :  کلاس E
+year : 1393
+mileage : 40000
+city : تهران 
+price : 7100000000
+-------------
+model : لاماری
+name :  ایما
+year : 1402
+mileage : 0
+city : تهران 
+price : 2700000000
+-------------
+model : تویوتا
+name :  لندکروز دو در
+year : 1986
+mileage : 190000
+city : تهران 
+price : 1500000000
+-------------
+model : فونیکس
+name :  تیگو 7 پرو
+year : 1401
+mileage : 0
+city : تهران 
+price : 2500000000
+-------------
+model : جیلی
+name :  GC6
+year : 1397
+mileage : 136000
+city : بابل
+price : 740000000
+-------------
+model : فولکس
+name :  تیگوان
+year : 1397
+mileage : 86000
+city : تهران 
+price : 5800000000
+-------------
+model : مزدا
+name :  3 جدید صندوق دار (مونتاژ)
+year : 1397
+mileage : 28700
+city : تهران 
+price : 2600000000
+-------------
+model : فونیکس
+name :  FX
+year : 1401
+mileage : 0
+city : تهران 
+price : 2600000000
+-------------
+model : ام جی
+name :  6
+year : 1393
+mileage : 185000
+city : مهاباد
+price : 1220000000
+-------------
+model : هیوندای
+name :  توسان (ix35)
+year : 1396
+mileage : 0
+city : تهران 
+price : 4100000000
+-------------
+model : نیسان
+name :  پاترول (وارداتی)
+year : 1992
+mileage : 60000
+city : گنبد کاووس 
+price : 2400000000
+-------------
+model : هیوندای
+name :  النترا
+year : 1397
+mileage : 86000
+city : کرمان
+price : 2900000000
+-------------
+model : کیا
+name :  سورنتو
+year : 1395
+mileage : 52000
+city : شمیرانات 
+price : 4600000000
+-------------
+model : کیا
+name :  اپتیما
+year : 1394
+mileage : 120000
+city : تهران 
+price : 3140000000
+-------------
